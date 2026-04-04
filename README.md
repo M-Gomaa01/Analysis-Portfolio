@@ -2,7 +2,7 @@
 ## 📊 Data Analysis Portfolio  
 Data Analysis Portfolio | Excel &amp; Power BI 
 ## 📌 About me
-Data Analyst with 7+ years of experience transforming data into actionable insights.  
+Data Analyst with over 7 years of experience transforming data into actionable insights.  
 Currently building real-world projects, with more coming soon.
 ## 🛠 Skills & Tools
 - **Data Analysis:** Excel
