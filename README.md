@@ -5,6 +5,7 @@ Data Analysis Portfolio | Excel &amp; Power BI
 Data Analyst with over 7 years of experience transforming data into actionable insights.  
 Currently building real-world projects, with more coming soon.
 ## 🛠 Skills & Tools
-- **Data Analysis:** Excel
-- **Data Visualization:** Power BI
+- Excel  
+- SQL  
+- Power BI
 
