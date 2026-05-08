@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmoud Gomaa
 ## 📊 Data Analysis Portfolio  
-Data Analysis Portfolio | Excel &amp; Power BI 
+Data Analysis Portfolio | Excel, SQL & Power BI
 ## 📌 About me
 Data Analyst with over 7 years of experience transforming data into actionable insights.  
 Currently building real-world projects, with more coming soon.
