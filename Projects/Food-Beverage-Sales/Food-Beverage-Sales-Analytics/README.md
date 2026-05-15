@@ -53,3 +53,16 @@ The dashboard highlights key business metrics to support sales optimization and 
 - **Total Orders:** 52.6K
 - **Sales Channels:** Retail, Distributor, Online
 - **Product Categories:** Food, Drink
+
+---
+
+## 🛠 Tools Used
+
+- **Microsoft Excel**  
+  Data cleaning and preparation.
+
+- **Power BI**  
+  Dashboard creation and data visualization.
+
+- **DAX (Data Analysis Expressions)**  
+  Used to create measures and KPIs like revenue and orders.
